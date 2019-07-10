@@ -9,6 +9,7 @@ public class No_105_Arrays_PrintFirstAndLastCharII {
 
 		// TODO: Write your code below
 		
-		System.out.println(Arrays.toString(words));
+		System.out.println(Arrays.toString(words).charAt(0));
+		
 	}
 }
